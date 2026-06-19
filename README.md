@@ -6,6 +6,15 @@ This project analyzes an auto insurance portfolio using Excel, Power Query, Pivo
 
 The objective was to evaluate underwriting performance, pricing adequacy and customer risk segmentation across vehicle classes, policy types and geographic regions.
 
+## Data Source
+
+The dataset used in this project is a publicly available insurance dataset obtained from Kaggle and was used solely for educational and portfolio purposes.
+
+Source:
+https://www.kaggle.com/
+
+The data does not contain any confidential or proprietary information related to my current or previous employers.
+
 ## Tools Used
 
 - Microsoft Excel
